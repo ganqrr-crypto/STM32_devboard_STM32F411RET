@@ -1,1 +1,29 @@
 I am making this project to learn better the STM cause i really like the programming of it and because i heard it's precise and i think that's nice. I am making this so i can make it 4 layers too and i feel like i've learned alot doing this 
+
+
+BOM: 
+| Part | Quantity | Cost USD | Vendor | Link |
+|------|----------|----------|--------|------|
+| STM32F411RET6 | 1 | $10.74 | TME | [link](https://www.tme.eu/it/details/stm32f411ret6/microcontrollori-st/stmicroelectronics/) |
+| 100nF capacitor | 15 | $0.59 | TME | [link](https://www.tme.eu/it/details/0603b104k500ct/condensatori-mlcc-smd/walsin/) |
+| 1uF capacitor | 10 | $0.46 | TME | [link](https://www.tme.eu/it/details/0603b105k160ct/condensatori-mlcc-smd/walsin/) |
+| 22pF capacitor | 10 | $0.2 | TME | [link](https://www.tme.eu/it/details/0603n220j500ct/condensatori-mlcc-smd/walsin/) |
+| 10uF capacitor | 5 | $1.49 | TME | [link](https://www.tme.eu/it/details/c0603c106m9pac/condensatori-mlcc-smd/kemet/c0603c106m9pactu/) |
+| 4.7uF capacitor | 2 | $0.91 | TME | [link](https://www.tme.eu/it/details/c0603c475k8pac/condensatori-mlcc-smd/kemet/c0603c475k8pactu/) |
+| LED 603 | 2 | $1.32 | TME | [link](https://www.tme.eu/it/details/sm0603gcl/diodi-led-smd-colorati/bivar/) |
+| USB 4105 | 1 | $0.88 | TME | [link](https://www.tme.eu/it/details/usb4105-gf-a/connettori-usb-e-ieee-1394/gct/) |
+| 5k1 Resistor | 10 | $0.19 | TME | [link](https://www.tme.eu/it/details/ac0603fr-075k1l/resistori-smd/yageo/) |
+| 10K Resistor | 10 | $0.25 | TME | [link](https://www.tme.eu/it/details/rc0603fr-0710k/resistori-smd/yageo/rc0603fr-0710kl/) |
+| 1k Resistor | 10 | $0.18 | TME | [link](https://www.tme.eu/it/details/rc0603fr-071k/resistori-smd/yageo/rc0603fr-071kl/) |
+| Buttons | 2 | $2.18 | TME | [link](https://www.tme.eu/it/details/b3u-1000p/microinterruttori-tact/aratas-formerly-omron-components/) |
+| USBLC6-2SC6 | 1 | $0.55 | TME | [link](https://www.tme.eu/it/details/usblc6-2sc6/diodi-di-protezione-reti/stmicroelectronics/) |
+| TLV75733PDBVR | 2 | $0.6 | TME | [link](https://www.tme.eu/it/details/tlv75733pdbvr/stabilizzatori-di-tens-non-regol-ldo/texas-instruments/) |
+| 12MHz crystal | 1 | $0.61 | TME | [link](https://www.tme.eu/it/en/details/abm3b-12.000mhz-b2/resonators-and-generators/abracon/abm3b-12-000mhz-b2-t/) |
+| Headers | 10 | $2.02 | TME | [link](https://www.tme.eu/it/en/details/zl201-16g/pin-headers/connfly/ds1021-1-16sf11/) |
+| PCB | 5 | $9.83 | JLCPCB | |
+| **TOTAL WITH TAX AND SHIPPING** | | **$41.20** | | |
+
+PCB Images: 
+<img width="2423" height="1618" alt="image" src="https://github.com/user-attachments/assets/7948e1bd-006d-4d3c-9054-44e36e8b245a" />
+<img width="2170" height="1428" alt="image" src="https://github.com/user-attachments/assets/8e9063f9-d199-4022-bbc2-f6a424041d68" />
+<img width="1992" height="1412" alt="image" src="https://github.com/user-attachments/assets/f44ebcdd-a187-40f9-9de7-eae053cdfd49" />
