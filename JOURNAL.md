@@ -3,7 +3,7 @@ title: "STM32 Board"
 github: "https://github.com/ganqrr-crypto/STM32_devboard_STM32F411RET"
 description: "It's my first 4 layer board and i am building it to see how STM works"
 created_at: "2026-11-01"
-total_time: "11h 12m"
+total_time: "12h 12m"
 ---
 
 # November 1, 2026: Research and schematics
@@ -110,3 +110,16 @@ I improved the crystal routing and placement by making the routes shorter and ho
 ![](https://fabricate.hackclub-assets.com/c2dc1f51c43cfe8df7c40221a43314ce844800244bcf376827e0f005e9985379/image-png/Screenshot%202026-11-06%20194336.png)
 
 **Total time spent: 1h 30m**
+
+# November 6, 2026 (entry 3): Done
+<!-- fabricate:entry 2277 -->
+
+I am done building the PCB. And setting up things.. I am not very confident about this so i expect to be sent back but we'll see. here is the work i did now i set up all the github project
+
+![](https://fabricate.hackclub-assets.com/956af28dcd2cccd8eeca9b49ce5da482fcdb94732dc32d9c490b156b52d46a51/image-png/image.png)
+then while setting it up i realised my pcb didn't have silkscreen for the pins so i added silkscreen indicators on the back
+
+![](https://fabricate.hackclub-assets.com/3f8fabfa6ccf1cbbf8271abecaa39252513f8279badd881a2c281458d50e77b6/image-png/image.png)
+also i made some simple code and gave it a final look. Looks fine to me but going to see if it's good or no soon..
+
+**Total time spent: 1h**
