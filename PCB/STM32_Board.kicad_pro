@@ -543,7 +543,7 @@
       "netlist": "",
       "plot": "../Manufacturing/gerbers/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../CAD/STM32_Board.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
