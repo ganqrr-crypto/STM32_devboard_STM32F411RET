@@ -541,7 +541,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "C:/Users/ganqr/Downloads/gertrst/",
+      "plot": "../Manufacturing/gerbers/",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
