@@ -1,4 +1,4 @@
-I am making this project to learn better the STM cause i really like the programming of it and because i heard it's precise and i think that's nice. I am making this so i can make it 4 layers too and i feel like i've learned alot doing this 
+I am making this project to learn better the STM cause i really like the programming of it and because i heard it's precise and i think that's nice. I am making this so i can make it 4 layers too and i feel like i've learned alot doing this. I think i will like this microcontroller and im gonna use it in different projects. BUT it's very pricy.
 
 
 BOM: 
