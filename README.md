@@ -10,6 +10,8 @@ This devboard uses 603 capacitors,leds and resistors so it can be more compact a
 
 *The RESET button is NRST.
 
+The gerbers are found in the "Manufacturing" folder and the 3D STEP model of the PCB is found in the "CAD" folder.
+
 Here are some pictures: 
 
 This is the PCB 3d render
