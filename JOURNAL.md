@@ -3,7 +3,7 @@ title: "STM32 Board"
 github: "https://github.com/ganqrr-crypto/STM32_devboard_STM32F411RET"
 description: "It's my first 4 layer board and i am building it to see how STM works"
 created_at: "2026-11-01"
-total_time: "12h 12m"
+total_time: "12h 30m"
 ---
 
 # November 1, 2026: Research and schematics
@@ -123,3 +123,12 @@ then while setting it up i realised my pcb didn't have silkscreen for the pins s
 also i made some simple code and gave it a final look. Looks fine to me but going to see if it's good or no soon..
 
 **Total time spent: 1h**
+
+# November 9, 2026: Fixed the readme
+<!-- fabricate:entry 2490 -->
+
+I fixed the readme because it was too simple and yeah i agree. I started writing about where to find the gerbers what caps size is used more pictures and more information and i moved the BOM to the bottom.
+
+![](https://fabricate.hackclub-assets.com/9a5935c629362e0722a38c67e865d8e2162c30c424c7f846da9b0b8a9c5f8245/image-png/image.png)
+
+**Total time spent: 18m**
