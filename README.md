@@ -1,5 +1,7 @@
 I am making this project to learn better the STM cause i really like the programming of it and because i heard it's precise and i think that's nice. I am making this so i can make it 4 layers too and i feel like i've learned alot doing this. I think i will like this microcontroller and im gonna use it in different projects. BUT it's very pricy.
 
+# Features
+
 This project uses a STM32F411RET6 as MCU and it features USB C and a power led but no built in gpio led.
 I made it a 4 layer board because i would have cleaner routing and interrupted ground plane under usb d+ and d- and so easier routing for the gpio pins.
 It uses a 12MHz crystal that is close to the chip and has the RESET and BOOT buttons.
@@ -8,11 +10,18 @@ The PCB is green so the PCB wouldn't end up too expensive because JLCPCB charges
 
 This devboard uses 603 capacitors,leds and resistors so it can be more compact and has 4 holes for possible mounting.
 
+# NRST Button notes
+
 *The RESET button is NRST.
+
+# Important folder locations
 
 The gerbers are found in the "Manufacturing" folder and the 3D STEP model of the PCB is found in the "CAD" folder.
 
-Here are some pictures: 
+
+# PCB
+
+I designed this PCB in Ki Cad
 
 This is the PCB 3d render
 <img width="2423" height="1618" alt="Screenshot 2026-11-06 195659" src="https://github.com/user-attachments/assets/a1134899-c68f-44b9-8bc2-7de8630f6779" />
@@ -35,6 +44,8 @@ LAYER4:
 No ground plane picture:
 <img width="2214" height="1389" alt="image" src="https://github.com/user-attachments/assets/045539e4-0058-4773-a802-89f2e93ed9ce" />
 
+
+# BOM
 
 BOM: 
 | Part | Quantity | Cost USD | Vendor | Link |
